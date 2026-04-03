@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Driver Manager</string>
+    <string name="nav_drivers">Drivers</string>
+    <string name="nav_apps">Apps</string>
+    <string name="nav_modules">Modules</string>
+    <string name="nav_protection">Protect</string>
+
+    <string-array name="xposed_scope">
+        <!-- Empty = hook all packages (LSPosed will let user select scope) -->
+    </string-array>
+</resources>

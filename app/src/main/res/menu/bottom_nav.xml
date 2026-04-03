@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_drivers"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/nav_drivers" />
+    <item
+        android:id="@+id/nav_apps"
+        android:icon="@android:drawable/ic_menu_more"
+        android:title="@string/nav_apps" />
+    <item
+        android:id="@+id/nav_modules"
+        android:icon="@android:drawable/ic_menu_set_as"
+        android:title="@string/nav_modules" />
+    <item
+        android:id="@+id/nav_protection"
+        android:icon="@android:drawable/ic_lock_lock"
+        android:title="@string/nav_protection" />
+</menu>
